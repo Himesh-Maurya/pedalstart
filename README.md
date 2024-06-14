@@ -13,13 +13,14 @@ Frontend: React, Axios, react-router-dom, react-datepicker
 Backend: Node.js, Express
 Database: MongoDB (not explicitly mentioned but assumed based on backend implementation)
 
-
+# Hosted Link 
+[https://task-crud-frontend.vercel.app/](https://task-crud-frontend.vercel.app/)
 # Getting Started 
 
 To run this application locally, follow these steps:
 
-# Clone the repository:
-git clone <repository-url>
+# Clone the repository:-
+git clone [https://github.com/Himesh-Maurya/pedalstart](https://github.com/Himesh-Maurya/pedalstart)
 
 # Install dependencies:
 Install backend dependencies
